@@ -1,3 +1,4 @@
+package cosc600prj4;
 /*
  * COSC 600                        Project 4
  * James Rehak                     11-11-14
